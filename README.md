@@ -22,7 +22,7 @@ Installation
 
 Clone this repository:
 
-bashgit clone https://github.com/yourusername/job-application-email-generator.git
+git clone https://github.com/tmax-560/job-application-email-generator.git
 cd job-application-email-generator
 
 Run the application:
